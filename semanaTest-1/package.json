@@ -1,0 +1,19 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [
+    "test",
+    "jest"
+  ],
+  "author": "Stephanie",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
